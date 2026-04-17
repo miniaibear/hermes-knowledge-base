@@ -69,3 +69,9 @@
 - 已更新 index.md
 
 *日志规范：每条记录以 `## ingest | ## query | ## lint` 前缀开头*
+
+## ingest 2026-03-12
+
+- 用户口头记录今日交易复盘
+- 存入 Journal/Trading/2026-03-12.md
+- 更新 index.md 加入 Journal/Trading/ 分类
