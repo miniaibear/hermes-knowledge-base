@@ -83,3 +83,12 @@
 - 新增内容：MEME币大肉行情执行铁律（五段式完整版）
 - 存入 Journal/Trading/2026-04-17.md（覆盖原2026-03-12版本为同一标的的更完整记录）
 - index.md 更新日期至 2026-04-17
+
+
+## ingest | Kelly Criterion to Prediction Markets (详细版重写)
+
+- 原始素材：[[原料/kelly-criterion-prediction-markets-2412.14144v1.html]]
+- 产出摘要：[[摘要/kelly-criterion-prediction-markets_摘要.md]]
+- 核心 takeaway：市场价格≠概率；Kelly f*=(Q-P)/(1+Q)；预测市场存在系统性缺口；α参数可调节 payout 缩小缺口；KL散度显示 bias 误估计是一阶效应，fraction 误计算是二阶效应
+- index.md TLDR 更新至 2026-04-20
+

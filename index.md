@@ -8,7 +8,7 @@
 
 | 笔记 | TLDR | 日期 |
 |------|------|------|
-| kelly-criterion-prediction-markets_摘要 | Kelly公式：市场价格≠概率；f*=(Q-P)/(1+Q)；预测市场存在系统性价格-概率缺口 | 2026-04-16 |
+| kelly-criterion-prediction-markets_摘要 | Kelly公式：市场价格≠概率；f*=(Q-P)/(1+Q)；预测市场存在系统性价格-概率缺口；α参数payout可调节缺口；KL散度量化bias误估计影响（一阶）vs fraction误计算（二阶） | 2026-04-20 |
 | 知识库架构设计原则_摘要 | 笔记库即代码仓库：原料只读，Claude 编译产出摘要，三层目录+CLAUDE.md宪法 | 2026-04-11 |
 | obsidian-knowledge-base-SKILL_摘要 | Obsidian 知识库的标准操作流程：ingest/query/lint，原料→摘要→沉淀单向流动 | 2026-04-12 |
 
